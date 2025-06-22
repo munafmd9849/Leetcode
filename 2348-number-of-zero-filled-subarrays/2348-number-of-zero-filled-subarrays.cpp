@@ -1,12 +1,12 @@
 class Solution {
 public:
     long zeroFilledSubarray(vector<int>& nums) {
-        long cnt = 0, zeroSubarraysEndingAtCurrentIndex = 0;
+        long cnt = 0, ci = 0;
         for (int n : nums) {
             if (n == 0) {
-                cnt += ++zeroSubarraysEndingAtCurrentIndex;
+                cnt += ++ci;
             } else {
-                zeroSubarraysEndingAtCurrentIndex = 0;
+                ci = 0;
             }
         }
         return cnt;
