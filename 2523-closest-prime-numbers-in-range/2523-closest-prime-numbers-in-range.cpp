@@ -1,57 +1,44 @@
 class Solution {
 public:
     vector<int> closestPrimes(int left, int right) {
-        int upperLimit = right;
-        // Step 1: Get all prime numbers up to 'right' using sieve
-        vector<int> sieveArray = sieve(upperLimit);
+        vector<int> blackbox ( right+ 1, 1);
+        int sqright=sqrt(right);
+        blackbox[0]=0;
+        blackbox[1]=0;
+        
+        for ( int i =2; i<=sqright;i++){
+            if (blackbox[i]==1){
+                for (int j =i*i; j<=right;j=j+i){
+                    blackbox[j]=0;
 
-        vector<int>
-            primeNumbers;  // Store all primes in the range [left, right]
-        for (int num = left; num <= right; num++) {
-            // If number is prime add to the primeNumbers list
-            if (sieveArray[num] == 1) {
-                primeNumbers.push_back(num);
-            }
-        }
-
-        // Step 2: Find the closest prime pair
-        if (primeNumbers.size() < 2)
-            return vector<int>{-1, -1};  // Less than two primes available
-
-        int minDifference = INT_MAX;
-        vector<int> closestPair(2, -1);  // setting initial values
-
-        for (int index = 1; index < primeNumbers.size(); index++) {
-            int difference = primeNumbers[index] - primeNumbers[index - 1];
-            if (difference < minDifference) {
-                minDifference = difference;
-                closestPair[0] = primeNumbers[index - 1];
-                closestPair[1] = primeNumbers[index];
-            }
-        }
-
-        return closestPair;
-    }
-
-private:
-    vector<int> sieve(int upperLimit) {
-        // Initiate an int array to mark prime numbers
-        vector<int> sieve(upperLimit + 1,
-                          1);  // Assuming all numbers as prime initially
-
-        // 0 and 1 are not prime
-        sieve[0] = 0;
-        sieve[1] = 0;
-
-        for (int number = 2; number * number <= upperLimit; number++) {
-            if (sieve[number] == 1) {
-                // Mark all multiples of 'number' as non-prime
-                for (int multiple = number * number; multiple <= upperLimit;
-                     multiple += number) {
-                    sieve[multiple] = 0;
                 }
             }
         }
-        return sieve;
+        vector<int> primes;
+        for (int i =left ; i<= right;i++){
+            if (blackbox[i]==1){
+                primes.push_back(i);
+            }
+        }
+        if (primes.size()<2) return {-1,-1};
+        vector<int> ans;
+        int mindiff=INT_MAX;
+        for (int i=0;i< primes.size()-1;i++){
+            int diff= primes[i+1]-primes[i];
+            if (mindiff> diff){
+                mindiff=diff;
+              while (ans.size()>0){
+                ans.pop_back();
+              }
+                ans.push_back(primes[i]);
+                ans.push_back(primes[i+1]);
+
+
+            }
+           
+
+        }
+        return ans;
+        
     }
 };
