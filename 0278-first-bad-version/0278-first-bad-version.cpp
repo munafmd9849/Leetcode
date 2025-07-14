@@ -6,7 +6,7 @@ public:
     int firstBadVersion(int n) {
         int s=1,e=n,ans=n;
         while(s<=e){
-            int mid=(s+e)/2;
+            int mid=s+(e-s)/2;
             if(isBadVersion(mid)){
                 ans=mid;
                 e=mid-1;
