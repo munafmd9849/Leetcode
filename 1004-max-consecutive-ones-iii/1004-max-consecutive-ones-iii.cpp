@@ -9,9 +9,10 @@ public:
                 p1++;
                 if(p1==p2){
                     p2++;
-                if(p2==n){
-                    break;
-                }
+                    if(p2==n){
+                        break;
+                    }
+                    sum+=nums[p2];
                 }
             }
             else{
