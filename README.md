@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0739-daily-temperatures](https://github.com/munafmd9849/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/munafmd9849/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/munafmd9849/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
