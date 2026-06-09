@@ -19,18 +19,17 @@ public:
         else{
             return ans;
         }
-        TreeNode* nd=root;
         while(!q.empty()){
             int n=q.size();
             for(int i=1;i<=n;i++){
-                if(i==n){
-                    ans.push_back(q.front()->val);
-                }
                 TreeNode* temp=q.front();
                 if(temp->left!=nullptr)
                     q.push(temp->left);
                 if(temp->right!=nullptr)
                     q.push(temp->right);
+                if(i==n){
+                    ans.push_back(temp->val);
+                }
                 q.pop();
             }
         }
