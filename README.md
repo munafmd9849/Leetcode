@@ -45,4 +45,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/munafmd9849/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
