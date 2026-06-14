@@ -74,4 +74,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
