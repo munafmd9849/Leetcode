@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0739-daily-temperatures](https://github.com/munafmd9849/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/munafmd9849/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/munafmd9849/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/munafmd9849/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
