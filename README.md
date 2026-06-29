@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/munafmd9849/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0994-rotting-oranges](https://github.com/munafmd9849/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/munafmd9849/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
