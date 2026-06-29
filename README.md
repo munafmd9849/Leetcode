@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munafmd9849/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/munafmd9849/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/munafmd9849/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
