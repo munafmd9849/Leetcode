@@ -25,12 +25,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/munafmd9849/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munafmd9849/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/munafmd9849/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/munafmd9849/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/munafmd9849/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/munafmd9849/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/munafmd9849/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
