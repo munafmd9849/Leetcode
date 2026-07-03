@@ -36,6 +36,29 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         vector<int> tem;
+//         tem.push_back(nums[0]);
+//         int n=nums.size();
+//         for(int i=1;i<n;i++){
+//             int j=0;
+//             for(j;j<tem.size();j++){
+//                 if(nums[i]<=tem[j]){
+//                     tem[j]=nums[i];
+//                     break;
+//                 }
+//             }
+//             if(j==tem.size()){
+//                 tem.push_back(nums[i]);
+//             }
+//         }
+//         return tem.size();
+//     }
+// };
+
+
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
@@ -43,18 +66,13 @@ public:
         tem.push_back(nums[0]);
         int n=nums.size();
         for(int i=1;i<n;i++){
-            int j=0;
-            for(j;j<tem.size();j++){
-                if(nums[i]<=tem[j]){
-                    tem[j]=nums[i];
-                    break;
-                }
-            }
-            if(j==tem.size()){
-                tem.push_back(nums[i]);
-            }
+            auto it = lower_bound(tem.begin(), tem.end(), nums[i]);
+            if (it == tem.end()) tem.push_back(nums[i]);
+            else *it = nums[i];
         }
         return tem.size();
     }
 };
+
+
 
