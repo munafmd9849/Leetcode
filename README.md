@@ -142,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/munafmd9849/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munafmd9849/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 <!---LeetCode Topics End-->
