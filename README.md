@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
@@ -101,11 +102,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Prefix Sum
