@@ -149,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munafmd9849/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/munafmd9849/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
