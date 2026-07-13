@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/munafmd9849/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/munafmd9849/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,10 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/munafmd9849/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/munafmd9849/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/munafmd9849/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/munafmd9849/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/munafmd9849/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/munafmd9849/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/munafmd9849/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
