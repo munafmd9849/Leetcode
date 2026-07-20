@@ -6,6 +6,6 @@ with cte as(
         lead(num,2)over (order by id) as num_lead2
         from Logs
 )
-select Distinct num as ConsecutiveNums from Logs
+select num as ConsecutiveNums from Logs
 join cte on cte.id = Logs.id
-where num = num_lead1 and num_lead1 = num_lead2 
+where num = num_lead1 and num_lead1 = num_lead2 group by num
