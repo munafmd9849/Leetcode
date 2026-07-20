@@ -184,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/munafmd9849/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
