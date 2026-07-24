@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/munafmd9849/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/munafmd9849/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,12 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/munafmd9849/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0743-network-delay-time](https://github.com/munafmd9849/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/munafmd9849/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/munafmd9849/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
