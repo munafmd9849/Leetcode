@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munafmd9849/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/munafmd9849/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/munafmd9849/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/munafmd9849/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/munafmd9849/Leetcode/tree/main/0046-permutations/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/munafmd9849/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/munafmd9849/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/munafmd9849/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/munafmd9849/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/munafmd9849/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
