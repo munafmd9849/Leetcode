@@ -1,14 +1,14 @@
 class Solution {
 public:
     int searchInsert(vector<int>& arr, int k) {
-        int s=0,e=arr.size()-1;
-        int mid;
+        int s=0,e=arr.size()-1,ans=arr.size();
         while (s<=e){
-             mid=(e+s)/2;
+            int mid=(e+s)/2;
             if(arr[mid]==k){
                 return mid;
             }
-            else if(k<arr[mid]){
+            if(k<arr[mid]){
+                ans=mid;
                 e=mid-1;
             }
             else{
@@ -16,6 +16,6 @@ public:
             }
             
         }
-        return mid+1;
+        return ans;
     }
 };
