@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/munafmd9849/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/munafmd9849/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/munafmd9849/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/munafmd9849/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/munafmd9849/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/munafmd9849/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/munafmd9849/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/munafmd9849/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
