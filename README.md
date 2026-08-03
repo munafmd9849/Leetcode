@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/munafmd9849/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/munafmd9849/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/munafmd9849/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/munafmd9849/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/munafmd9849/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/munafmd9849/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0994-rotting-oranges](https://github.com/munafmd9849/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/munafmd9849/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -136,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
