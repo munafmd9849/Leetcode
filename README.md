@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/munafmd9849/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/munafmd9849/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/munafmd9849/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munafmd9849/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/munafmd9849/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/munafmd9849/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
