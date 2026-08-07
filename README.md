@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/munafmd9849/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -206,16 +207,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/munafmd9849/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/munafmd9849/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munafmd9849/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munafmd9849/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/munafmd9849/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munafmd9849/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -239,4 +243,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/munafmd9849/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/munafmd9849/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
