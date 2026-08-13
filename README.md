@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/munafmd9849/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/munafmd9849/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/munafmd9849/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/munafmd9849/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/munafmd9849/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Primality Test
