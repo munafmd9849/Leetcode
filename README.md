@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0198-house-robber](https://github.com/munafmd9849/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/munafmd9849/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/munafmd9849/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/munafmd9849/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/munafmd9849/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/munafmd9849/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
