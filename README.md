@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/munafmd9849/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/munafmd9849/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0040-combination-sum-ii](https://github.com/munafmd9849/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/munafmd9849/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/munafmd9849/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/munafmd9849/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munafmd9849/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/munafmd9849/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munafmd9849/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
