@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/munafmd9849/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/munafmd9849/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/munafmd9849/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/munafmd9849/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/munafmd9849/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munafmd9849/Leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/munafmd9849/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/munafmd9849/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
