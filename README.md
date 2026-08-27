@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/munafmd9849/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/munafmd9849/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0389-find-the-difference](https://github.com/munafmd9849/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/munafmd9849/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2974-minimum-number-game](https://github.com/munafmd9849/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munafmd9849/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/munafmd9849/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0389-find-the-difference](https://github.com/munafmd9849/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/munafmd9849/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0179-largest-number](https://github.com/munafmd9849/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/munafmd9849/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/munafmd9849/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/munafmd9849/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/munafmd9849/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/munafmd9849/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/munafmd9849/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/munafmd9849/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/munafmd9849/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munafmd9849/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/munafmd9849/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/munafmd9849/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
