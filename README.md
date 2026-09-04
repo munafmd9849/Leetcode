@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/munafmd9849/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/munafmd9849/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/munafmd9849/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/munafmd9849/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/munafmd9849/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/munafmd9849/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/munafmd9849/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
